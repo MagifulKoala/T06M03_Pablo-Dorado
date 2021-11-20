@@ -1,0 +1,7 @@
+Pablo Dorado Hurtado - 201821008
+
+-para correr el proyecto usar npm start en la carpeta principal
+-Adjunte el .tar resultante de descargar el proyecto de SAP Business Application Studio en caso de que se nececite
+-adjunte dentro de esta carpeta una imagen que muestra la aplicacion funcional al momento de ejecutarlo en mi computador
+
+Muchas gracias
