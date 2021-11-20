@@ -1,7 +1,12 @@
 Pablo Dorado Hurtado - 201821008
 
 -para correr el proyecto usar npm start en la carpeta principal
--Adjunte el .tar resultante de descargar el proyecto de SAP Business Application Studio en caso de que se nececite
+-En el caso que sea necesario, adjunto el link de descarga del proyecto.
 -adjunte dentro de esta carpeta una imagen que muestra la aplicacion funcional al momento de ejecutarlo en mi computador
+
+link:
+https://workspaces-ws-zvlsc-theia.us10.trial.applicationstudio.cloud.sap/files/download/?id=799b39c1-2a00-436f-b0eb-e7431d72fa98
+
+:D
 
 Muchas gracias
